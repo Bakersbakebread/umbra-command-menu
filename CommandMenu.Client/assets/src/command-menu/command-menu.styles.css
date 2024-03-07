@@ -1,0 +1,16 @@
+
+
+:host {
+    
+    display: block;
+    padding: 16px;
+    color: var(--umb-grey-800); 
+    /* font-size: 7rem;               */
+    border-radius: 1rem;
+    min-width: 50lvw;
+}
+
+h1 {
+    margin: 0;
+    color: var(--umb-grey-800);
+}

@@ -21,4 +21,5 @@ const dashboards: Array<ManifestDashboard> = [
     }
 ]
 
+
 export const manifests = [...dashboards];
