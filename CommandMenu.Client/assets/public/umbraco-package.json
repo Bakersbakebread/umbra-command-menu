@@ -1,0 +1,15 @@
+{
+    "$schema": "../umbraco-package-schema.json",
+    "name": "CommandMenu",
+    "id": "CommandMenu",
+    "version": "0.1.0",
+    "allowTelemetry": true,
+    "extensions": [
+        {
+            "name": "CommandMenu.entrypoint",
+            "alias": "CommandMenu.EntryPoint",
+            "type": "entryPoint",
+            "js": "/app_plugins/CommandMenu/assets.js"
+        }
+    ]
+}
